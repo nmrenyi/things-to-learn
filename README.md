@@ -12,3 +12,7 @@ MIT missing semester https://missing.csail.mit.edu/ . There's a lot of pratical 
 ## Tensorflow 2
 In fact I'm always willing to try out new things. TF is not so prevalent among researchers. But I still wanna give it a try, especially TensorFlow 2
 https://www.tensorflow.org/
+
+## Reorganize All Configuration Files
+ssh config, gitconfig, overwall config, zsh config, anaconda config...
+sync zsh config https://superuser.com/questions/152574/keeping-my-zsh-or-bash-profile-synced-up-on-all-my-machines
