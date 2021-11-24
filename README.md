@@ -28,7 +28,11 @@ Try to analyze the highlights as well as drawbacks and then construct your own f
 
 ## ReChorus
 ### Highlights
+#### About Recommendation
 (shown in ReChorus `README.md` and paper)
+
+#### About Code
+1. Nice progress bar and intermediate display.
 
 ## Drawbacks
 1. Compatibility problems due to old Pytorch version
