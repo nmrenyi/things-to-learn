@@ -17,6 +17,9 @@ https://www.tensorflow.org/
 ssh config, gitconfig, overwall config, zsh config, anaconda config...
 sync zsh config https://superuser.com/questions/152574/keeping-my-zsh-or-bash-profile-synced-up-on-all-my-machines
 
+## Config All Servers in THUIR
+config zsh, plugins, git, ssh, font, etc.
+
 ## Learn Different Recommendation Frameworks
 ReChorus https://github.com/THUwangcy/ReChorus/
 
