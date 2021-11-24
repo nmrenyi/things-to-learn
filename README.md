@@ -19,7 +19,9 @@ sync zsh config https://superuser.com/questions/152574/keeping-my-zsh-or-bash-pr
 
 ## Learn Different Recommendation Frameworks
 ReChorus https://github.com/THUwangcy/ReChorus/
+
 HappyRec
+
 RecBole https://github.com/RUCAIBox/RecBole
 
 Try to analyze the highlights as well as drawbacks and then construct your own framework!
