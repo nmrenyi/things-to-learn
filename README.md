@@ -35,6 +35,9 @@ Try to analyze the highlights as well as drawbacks and then construct your own f
 1. Nice progress bar and intermediate display.
 
 ### Drawbacks
+#### About Recommendation
+
+#### About Code
 1. Compatibility problems due to old Pytorch version
 2. Lack of options for only running on CPU despite of GPU availability. Some GPU (like NVIDIA MX150) do not support some operations in ReChorus, leading to runtime error.
 3. Confusion of object reference. Class `Dataset` contains a reference to the model, which sounds weird.
