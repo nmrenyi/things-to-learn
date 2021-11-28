@@ -29,6 +29,11 @@ RecBole https://github.com/RUCAIBox/RecBole
 
 Try to analyze the highlights as well as drawbacks and then construct your own framework!
 
+## Writing on GitHUb and Typora
+professional writing on GitHub and Typora
+
+https://docs.github.com/en/github/writing-on-github
+
 ## ReChorus
 ### Highlights
 #### About Recommendation
