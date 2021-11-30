@@ -20,6 +20,10 @@ sync zsh config https://superuser.com/questions/152574/keeping-my-zsh-or-bash-pr
 ## Config All Servers in THUIR
 config zsh, plugins, git, ssh, font, etc.
 
+## Docker
+docker is a highly useful tool for software with environment. Tensorflow 2.x already supports docker.
+https://www.docker.com/
+
 ## Learn Different Recommendation Frameworks
 ReChorus https://github.com/THUwangcy/ReChorus/
 
