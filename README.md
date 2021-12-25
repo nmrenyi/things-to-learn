@@ -41,6 +41,9 @@ professional writing on GitHub and Typora
 
 https://docs.github.com/en/github/writing-on-github
 
+## Three line table parser
+convert table in `DataFrame` to LaTeX three line table (like table in this link https://arxiv.org/abs/2105.06323).
+
 ## ReChorus
 ### Highlights
 #### About Recommendation
